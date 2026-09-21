@@ -1,5 +1,5 @@
 # Trabajo6HaciendoEconomia
-Santiago Martinez - Líder del Proyecto.
-Ariana Garzón - Especialista en visualización y comunicación (Con mi rol logre desarrollar el documento escrito para que gracias a los datos, los codigos y las graficas anteriormente realizada por mis compañeros, brindar un mensajes comprensibles para el equipo de la ONG)
+Santiago Martinez - Líder del Proyecto. (Realización de las respuestas a las preguntas del taller junto con las respectivas graficas, que provienen del código
+Ariana Garzón - Especialista en visualización y comunicación (Con mi rol logre desarrollar el documento escrito para que gracias a los datos, los códigos y las graficas anteriormente realizada por mis compañeros, brindar un mensajes comprensibles para el equipo de la ONG)
 María Paula - Especialista en datos y reproducibilidad.
 Valery - Análisis cuantitativo.
